@@ -9,7 +9,7 @@
         android:id="@+id/grid_list"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:padding="4dp"
+        android:padding="@dimen/small_view_padding"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

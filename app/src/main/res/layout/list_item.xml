@@ -3,9 +3,9 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:layout_margin="4dp"
-    android:padding="4dp"
-    android:background="#E6F5F6">
+    android:layout_margin="@dimen/list_item_margin"
+    android:padding="@dimen/small_view_padding"
+    android:background="@color/grid_list_item_bg">
 
 
     <ImageView
@@ -25,7 +25,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/offer_img"
-        android:hint="50 % off"
+        android:hint="@string/list_item_hint"
         android:textStyle="italic|bold"
-        android:textSize="24sp"/>
+        android:textSize="@dimen/grid_list_item_text_size"/>
 </androidx.constraintlayout.widget.ConstraintLayout>

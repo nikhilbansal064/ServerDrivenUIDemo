@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ServerDrivenUI</string>
+    <string name="banner_hint">Limited Stock</string>
+    <string name="list_item_hint">50 % off</string>
 </resources>

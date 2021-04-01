@@ -13,6 +13,25 @@ object Utils {
                 "             \"text\" : \"Diwali Sale\"\n" +
                 "         },\n" +
                 "         {\n" +
+                "             \"viewType\" : \"Banner\",\n" +
+                "             \"text\" : \"Diwali Sale\"\n" +
+                "         },\n" +
+                "         {\n" +
+                "             \"viewType\" : \"Banner\",\n" +
+                "             \"text\" : \"Diwali Sale\"\n" +
+                "         },\n" +
+                "         {\n" +
+                "             \"viewType\" : \"Banner\",\n" +
+                "             \"text\" : \"Diwali Sale\"\n" +
+                "         },{\n" +
+                "             \"viewType\" : \"Banner\",\n" +
+                "             \"text\" : \"Diwali Sale\"\n" +
+                "         },\n" +
+                "         {\n" +
+                "             \"viewType\" : \"Banner\",\n" +
+                "             \"text\" : \"Diwali Sale\"\n" +
+                "         },\n" +
+                "         {\n" +
                 "             \"viewType\" : \"list_horizontal\",\n" +
                 "             \"data\" : [\n" +
                 "                 {\n" +
@@ -65,6 +84,18 @@ object Utils {
                 "                     \"text\" : \"Under 1999\"\n" +
                 "                 }\n" +
                 "             ]\n" +
+                "         },\n" +
+                "         {\n" +
+                "             \"viewType\" : \"Banner\",\n" +
+                "             \"text\" : \"Diwali Sale\"\n" +
+                "         },\n" +
+                "         {\n" +
+                "             \"viewType\" : \"Banner\",\n" +
+                "             \"text\" : \"Diwali Sale\"\n" +
+                "         },\n" +
+                "         {\n" +
+                "             \"viewType\" : \"Banner\",\n" +
+                "             \"text\" : \"Diwali Sale\"\n" +
                 "         }\n" +
                 "         \n" +
                 "     ]\n" +

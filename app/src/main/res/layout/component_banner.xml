@@ -3,8 +3,10 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="#EAF2F3"
-    android:padding="8dp">
+    android:background="@color/banner_bg"
+    android:padding="@dimen/view_padding"
+    android:layout_marginTop="@dimen/small_view_margin"
+    android:layout_marginBottom="@dimen/small_view_margin">
 
     <ImageView
         android:layout_width="match_parent"
@@ -20,13 +22,9 @@
         android:id="@+id/banner_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:hint="Limited Stock"
+        android:hint="@string/banner_hint"
         android:textStyle="bold|italic"
-        android:textSize="28sp"
+        android:textSize="@dimen/banner_text_size"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"/>
-
-
-
-
 </androidx.constraintlayout.widget.ConstraintLayout>
